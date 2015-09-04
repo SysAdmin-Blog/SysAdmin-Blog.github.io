@@ -1,5 +1,4 @@
 = ProgramandolaWeb - Blog
-:hp-image: http://k30.kn3.net/taringa/2/5/5/3/6/9/96/ohreydopebetes/539.jpg
 :hp-tags: ProgramandolaWeb, Blog, Open Source,
 
 
