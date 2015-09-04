@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "programandolaweb",
-    "repositoryName": "programandolaweb.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"programandolaweb","repositoryName":"programandolaweb.github.io","branch":"master"},"site":{"title":"Programando la Web","description":"Comunidad de contenido online gratuito","url":"https://programandolaweb.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//programandolaweb.github.io/themes/Casper"}}
