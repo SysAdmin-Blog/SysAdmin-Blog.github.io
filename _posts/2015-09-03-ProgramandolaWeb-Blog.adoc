@@ -1,6 +1,17 @@
 = ProgramandolaWeb - Blog
 
 
-+++++
 
-+++++
+=== Comunidad de Porgramandolaweb.
+
+
+ Por diversas causas migraremos de sitio a Github 
+
+
+=== Contenido Gratuito solo en ProgramandolaWeb 
+
+++++
+<img class="marketing-section-img" src="https://assets-cdn.github.com/images/modules/home/gh-enterprise-code.png" alt="">
+
+++++
+
